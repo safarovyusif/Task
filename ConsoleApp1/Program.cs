@@ -74,18 +74,18 @@
 
 //----------------------------------------------------------------
 
-double mesafe = 10;
-double odenis = 0;
-if(mesafe>0 && mesafe <=5)
-{
-    odenis = 5;
-}
-else if(mesafe > 5 && mesafe <= 15)
-{
-    odenis = 5+((mesafe-5)*0.8);
-}
-else if (mesafe >= 15)
-{
-    odenis = 5 + ((mesafe - 5) * 0.6);
-}
-Console.WriteLine($"odenilecek mebleg: {odenis}");
+//double mesafe = 10;
+//double odenis = 0;
+//if(mesafe>0 && mesafe <=5)
+//{
+//    odenis = 5;
+//}
+//else if(mesafe > 5 && mesafe <= 15)
+//{
+//    odenis = 5+((mesafe)*0.8);
+//}
+//else if (mesafe >= 15)
+//{
+//    odenis = 5 + ((mesafe) * 0.6);
+//}
+//Console.WriteLine($"odenilecek mebleg: {odenis}");
